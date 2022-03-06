@@ -1,0 +1,27 @@
+header {
+    padding-top: 62px;
+    padding-bottom: 96px;
+    max-width: 1109px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+    align-content: center;
+}
+
+.nav {
+    list-style-type: none;
+    display: flex;
+    align-items: center; 
+}
+
+.logo_position {
+    position: relative;
+    right: 65px;
+}
+
+.logo_container {
+    display: flex;
+    align-content: center;
+}

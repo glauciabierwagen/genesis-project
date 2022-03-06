@@ -1,0 +1,38 @@
+header {
+  padding-top: 63px;
+  padding-bottom: 96px;
+  max-width: 1110px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-direction: row;
+  align-content: center;
+}
+
+.logo_container {
+  display: flex;
+  align-content: center;
+}
+
+.nav {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+
+.nav_appearance {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  letter-spacing: -0.346154px;
+  color: #111111;
+}
+
+.logo_position {
+  position: relative;
+  right: 65px;
+}
+/*# sourceMappingURL=_header.css.map */

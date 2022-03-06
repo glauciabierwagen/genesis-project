@@ -1,0 +1,23 @@
+footer {
+    padding-top: 110px;
+    padding-bottom: 40px;
+    max-width: 1110px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+    align-content: center;
+}
+.logo_container {
+    display: flex;
+    align-content: center;
+}
+.nav {
+    list-style-type: none;
+    display: flex;
+    align-items: center; 
+}
+.nav>li {
+    margin-left: 29px;
+}

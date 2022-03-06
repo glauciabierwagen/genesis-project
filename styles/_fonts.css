@@ -1,0 +1,114 @@
+h2 {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 28px;
+  letter-spacing: -0.423077px;
+  color: #4A4FF2;
+}
+
+h1 {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 60px;
+  color: #111111;
+}
+
+.blue_color {
+  color: #4A4FF2;
+}
+
+.text_right {
+  font-family: "Mulish", sans-serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  color:  #9e9b9b;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+}
+
+.body-text {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #111111;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+
+.link-info {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 38px;
+  color: #111111;
+}
+
+.links {
+  list-style-type: none;
+}
+
+.link-appearance {
+  -webkit-text-decoration-line: none;
+          text-decoration-line: none;
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  color: #111111;
+}
+
+.body-bold {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: right;
+  color: #111111;
+}
+
+.bold, .nav_appearance {
+  -webkit-text-decoration-line: none;
+          text-decoration-line: none;
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  color: #111111;
+}
+
+.rubric, .list {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 28px;
+  color: #111111;
+}
+
+.description {
+  color: #979797;
+}
+
+.text-box, .input-area {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #111111;
+  mix-blend-mode: normal;
+  opacity: 0.6;
+}
+/*# sourceMappingURL=_fonts.css.map */
