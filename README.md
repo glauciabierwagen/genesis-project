@@ -17,7 +17,7 @@
 - [Best practices for cross browser testing](http://www.devstars.com/blog/cross-browser-testing-best-practices/) (English)  
 - [W3 validator](https://validator.w3.org/) (English) 
 - [Sass style guide](https://css-tricks.com/sass-style-guide/) (English)  
-- [Less] http://lesscss.org/ (English)  
+- [Less](http://lesscss.org/) (English)  
 - [NPM](https://www.npmjs.com/) (English) 
  
 
