@@ -1,13 +1,20 @@
 # Genesis Project
-<b> Course IT Women - Front End </b> 
+<b> Course IT Women - Front End </b>
+<br>
+<p align="center">
+  <img src="https://github.com/glauciabierwagen/glaucia_portfolio/blob/main/images/readmeimage.png" width="950"  heigth="850"/>
+</p>
 
 ## Guidelines
-- Creation of a form that collects the different type of data, including all the form validations. The design should elaborate in Figma or your own design.  
+- Recreation of the Figma file for Genesis portfolio. 
 
 ## Extra materials 
 
-- [Styling checkboxes with CSS](https://appitventures.com/blog/styling-checkbox-css-tips/) (English)
-- [Different cursor types](https://css-tricks.com/almanac/properties/c/cursor/) (English)
-- [Styling form inputs with CSS](https://css-tricks.com/custom-styling-form-inputs-with-modern-css-features/) (English)
-- [Form elements](https://www.w3schools.com/tags/tag_form.asp) (English)
+- [Autoprefixer](https://autoprefixer.github.io/) (English) 
+- [Caniuse and some different CSS properties](https://caniuse.com/) (English) 
+-	[Browser statistics for cross browser testing](https://www.lambdatest.com/blog/35-key-browser-statistics/) (English)  
+- [The top browsers for cross browser testing in 2020](https://www.lambdatest.com/blog/browsers-for-cross-browser-testing-2020/) (English) 
+- [Best practices for cross browser testing](http://www.devstars.com/blog/cross-browser-testing-best-practices/) (English)  
+- [W3 validator](https://validator.w3.org/) (English)  
+
 
