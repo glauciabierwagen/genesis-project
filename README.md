@@ -2,7 +2,7 @@
 <b> Course IT Women - Front End </b>
 <br>
 <p align="center">
-  <img src="https://github.com/glauciabierwagen/genesis-project/blob/main/images/readmeimage.png"  heigth="850"/>
+  <img src="https://github.com/glauciabierwagen/genesis-project/blob/main/images/readmeimage.png"  heigth="750"/>
 </p>
 
 ## Guidelines
